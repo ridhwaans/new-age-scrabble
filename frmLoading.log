@@ -1,0 +1,4 @@
+Line 21: Class MSComctlLib.ProgressBar of control pgbLoading was not a loaded control class.
+Line 27: The property name _ExtentX in pgbLoading is invalid.
+Line 28: The property name _ExtentY in pgbLoading is invalid.
+Line 29: The property name _Version in pgbLoading is invalid.
