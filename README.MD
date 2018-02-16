@@ -1,10 +1,8 @@
 # new-age-scrabble
 
-Scrabble game
-
-![home_webpage](https://github.com/ridhwaans/dotfiles/raw/master/game_files/website_screen/home_webpage.bmp)
-![about_webpage](https://github.com/ridhwaans/dotfiles/raw/master/game_files/website_screen/about_webpage.bmp)
-![contact_webpage](https://github.com/ridhwaans/dotfiles/raw/master/game_files/website_screen/contact_webpage.bmp)
+![home_webpage](https://raw.githubusercontent.com/ridhwaans/new-age-scrabble/master/game_files/website_screen/home_webpage.bmp)
+![about_webpage](https://raw.githubusercontent.com/ridhwaans/new-age-scrabble/master/game_files/website_screen/about_webpage.bmp)
+![contact_webpage](https://github.com/ridhwaans/new-age-scrabble/raw/master/game_files/website_screen/contact_webpage.bmp)
 
 License
 ============
