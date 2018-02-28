@@ -1,0 +1,32 @@
+Place a tile:
+Click and move a letter tile from the rack and release it above the board. 
+
+Swap tiles:
+Click to pick up a letter tile and then click on another letter tile.
+
+Dictionary:
+Click the Dictionary button to access the Dictionary look-up feature. Look up words to determine if the word is valid or not.
+
+Exchange tiles:
+Click the Exchange button to exchange all seven tiles for new ones as long as there are enough tiles in the bag. You must first recall all tiles from the board to your tile rack in order to exchange them.
+
+Shuffle tiles:
+Click the Shuffle button to randomly re-order the tiles on the rack.
+
+Recall tiles:
+Click the Recall button to return the placed tiles back to the rack.
+
+Submit word:
+Click the Submit button after placing your tiles on the board. The Submit button checks if the word formed is valid and generates a player score accordingly.
+
+New turn:
+Click the Continue button when visible to continue to the next player's turn.
+
+Pause game:
+Click the Pause button at the bottom left to pause the game.
+
+Pass turn:
+Click the Pass button at the bottom to skip your turn.
+
+View Tile Bag:
+Click the Tile Bag to view the letter distribution and tiles remaining.
