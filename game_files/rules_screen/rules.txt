@@ -1,0 +1,36 @@
+Score points by creating words from the seven tiles on the rack and placing them on the board.
+Words can run from left to right or top to bottom but not diagonally.
+The first word covered must cover the star at the center of the board. Other wrods must use at least one tile already on the board.
+The rack is refilled to seven tiles after each play as long as there are sufficient tiles left in the bag.
+
+Scoring: 
+The number on each tile indicates the point value for that tile.
+When placed on the board the total points of all new words formed by the tiles are added to the score of the player.
+
+Letter Distribution:
+English language editions of SCRABBLE contain one hundred letter tiles in the following distribution:
+
+0 points: 	blank tiles(2)
+1 point: 	E(12) A(9) I(9) O(8) R(6) 
+1 point:	N(6) T(6) L(4) S(4) U(4)
+2 points: 	D(4) G(3)
+3 points: 	B(2) C(2) M(2) P(2)
+4 points: 	F(2) H(2) V(2) W(2) Y(2)
+5 points: 	K(1)
+8 points: 	J(1) X(1)
+10 points: Q(1) Z(1)
+
+Color Bonuses:
+Red squares double the word score
+Orange squares triple the word score
+Blue squares double the letter score
+Green squares triple the letter score
+
+Blank tiles:
+A blank tile can be used as any letter but has no point value.
+
+Ending the game:
+The game ends if when there are less than seven tiles remaining in the tile bag.
+The game ends if the player chooses to quit the game from the pause menu
+
+
