@@ -1,0 +1,31 @@
+CHANGELOG:
+
+Version 1.0
+-Highscores now update and append to file after each game
+-The game ends when there are less than 7 tiles in the bag
+-Removed unnecessary game files
+-Fixed highscores two column listbox alignment
+-Removed unnecessary code and comments, with smart indent and final revision
+
+Beta build
+-A.I. is now finally functional (but sometimes very slow)
+-Game summary statistics and word history log now displayed in Game Over screen
+-Fixed tile shuffle disability
+-Fixed a (fucking annoying) duplicating blank tile swap and recall bug
+-Fixed word detection at borders and corners
+
+Alpha build
+-Player versus Player seems to be working completely now.
+-Let me know if there are any bugs (didnt find any)
+-Added Game-Over screen interface
+
+Test build 1
+-Fixed probability weights when getting randomly available tiles
+-Added form modularity so that decision windows are always active on top unless closed
+-Implemented setting and retrieving blank tiles to work when placing, picking up, or swapping tiles
+-Fixed resized form layout to appear above taskbar, realigned grid
+-Changed clock to 3 minute player turn time countdown
+-Added the word 'Spam' to dictionary LOL
+
+Prototype
+-This half-ass demo is from an in-production build and does not reflect the quality of the final product LOL.
